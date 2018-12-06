@@ -1,0 +1,5 @@
+
+function getWindowSize(){
+    $()
+    var windowSize = []
+}
